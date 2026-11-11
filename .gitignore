@@ -1,0 +1,19 @@
+# 本地底本与中间产物：不进入公开仓库
+assets/
+digests/
+chunks/
+*.txt.bak
+*_原文.txt
+*_原文.md
+
+# 本机与编辑器
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# 临时
+*.tmp
+*.swp
